@@ -7,14 +7,14 @@ body, html {
 		}
 /*parts*/
 @font-face {
-	font-family: Axis;
-	src: url(fonts/axis.woff) format('woff');
+	font-family: "Axis";
+	src: url("fonts/axis.woff") format("woff");
 	
-	font-family: Vision;
-	src: url(fonts/woff/vision-black-webfont.woff) format('woff');
+	font-family: "Vision";
+	src: url("fonts/woff/vision-black-webfont.woff") format("woff");
 
 	font-family: Futura;
-	src: url(fonts/Futura-Bold.woff) format('woff');
+	src: url("fonts/Futura-Bold.woff") format("woff");
 }
 .bgimg-3 {
 	background-color: none;
