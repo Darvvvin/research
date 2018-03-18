@@ -140,7 +140,8 @@ body, html {
 	width: 55%;
 }
 .scroll {
-	font-family: Vision;
+	font-weight: normal;
+	font-family: Futura;
 	position: absolute;
 	left: 0;
 	top: 100%;
@@ -191,8 +192,8 @@ body, html {
 	font-size: 24px;
 	letter-spacing: 1px;
 	color: black;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButton:after {
@@ -230,8 +231,8 @@ body, html {
 	font-size: 16px;
 	letter-spacing: 1px;
 	color: black;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButton2:after {
@@ -269,8 +270,8 @@ body, html {
 	font-size: 16px;
 	letter-spacing: 1px;
 	color: black;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButton3:after {
@@ -308,8 +309,8 @@ body, html {
 	font-size: 16px;
 	letter-spacing: 1px;
 	color: black;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButton4:after {
@@ -404,7 +405,7 @@ div.polaroid4 {
 	color: #000;
 	font-size: 24px;
 	color: white;
-	font-family: Vision;
+	font-family: Futura;
 	font-weight: lighter;
 }
 .subheading {
@@ -565,8 +566,8 @@ div.desc {
 	font-size: 16px;
 	letter-spacing: 1px;
 	color: white;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButtonB:after {
@@ -604,8 +605,8 @@ div.desc {
 	font-size: 16px;
 	letter-spacing: 1px;
 	color: white;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButton2B:after {
@@ -643,8 +644,8 @@ div.desc {
 	font-size: 16px;
 	letter-spacing: 1px;
 	color: white;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButton3B:after {
@@ -669,7 +670,7 @@ div.desc {
     background-color: black;
     border: none;
     padding: 10px;
-    width: 120px;
+    width: 140px;
     text-align: center;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
@@ -682,8 +683,8 @@ div.desc {
 	font-size: 24px;
 	letter-spacing: 1px;
 	color: white;
-	font-family: Vision;
-	font-weight: bold;
+	font-family: Futura;
+	font-weight: normal;
 	border-radius: 8px;
 }
 .menuButton4B:after {
