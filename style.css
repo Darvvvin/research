@@ -139,7 +139,7 @@ body, html {
 	font-family: Vision;
 	position: absolute;
 	left: 0;
-	top: 200%;
+	top: 100%;
 	width: 100%;
 	text-align: center;
 	color: #000;
@@ -465,7 +465,7 @@ div.polaroidMe {
 }
 .bgimg-new {
 	background-color: rgba(0,0,0,0.5);
-	background-image: url("field2.JPG");
+	background-image: url("https://static.tumblr.com/d5318ae593758ca2691ba0922a9eb62e/o4zk5y7/TU6o2x7tp/tumblr_static_filename_640_v2.gif");
 	min-height: 90%;
 	background-size: cover;
 	background-position: center;
@@ -480,7 +480,7 @@ div.polaroidMe {
 }
 .bgimg-two {
 	background-color: rgba(0,0,0,0.5);
-	background-image: url("bgrid.PNG");
+	background-image: url("https://78.media.tumblr.com/018779a9e32daead1a9f245c2fdea6e7/tumblr_oqeq9bcV461vmrxfeo1_500.gif");
 	min-height: 90%;
 	background-size: cover;
 	background-position: center;
@@ -718,4 +718,14 @@ div.desc {
 
 #myBtn:hover {
   background-color: white;
+}
+
+.p {
+	position: relative;
+    padding: 19% 0px 0px;
+    color: red;
+    text-align: center;
+}
+.vidmargin {
+	margin: 20px;
 }
