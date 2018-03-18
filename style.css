@@ -13,7 +13,7 @@ body, html {
 	font-family: 'Vision';
 	src: url('VISION/WEBFONT/woff2/vision-webfont.woff2') format('woff2'),
 	url('VISION/WEBFONT/woff/vision-webfont.woff') format('woff');
-	
+
 	font-family: Futura;
 	src: url("fonts/Futura-Bold.woff") format("woff");
 }
@@ -455,7 +455,7 @@ div.polaroidMe {
 	position: absolute;
 	width: 60.08%;
 	left: 480px;
-	top: 140px;
+	top: 100px;
 	font-family: Futura;
 	height: auto;
 	font-size: 11pt;
@@ -735,3 +735,4 @@ div.desc {
 .vidmargin {
 	margin: 20px;
 }
+
