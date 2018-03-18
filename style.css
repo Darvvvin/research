@@ -20,7 +20,9 @@ body, html {
 	background-color: none;
 	min-height: 100%;
 	background-size: cover;
-	background-position: relative;
+	background-image: url("headphones.gif");
+	background-position: center;
+	background-attachment: fixed;
 }
 .bgimg-1 {
 	background-color: rgba(0,0,0,0.5);
@@ -48,6 +50,7 @@ body, html {
 	color: #000;
 	font-size: 128px;
 	color: white;
+	text-shadow: 0 0 20px #FFFFFF;
 }
 .eport {
 	position: absolute;
@@ -168,6 +171,7 @@ body, html {
 	top: 210%;
 	left: 0;
 	z-index: 1;
+	text-shadow: 0 0 20px #FFFFFF;
 }
 .menuButton {
     background-color: #FFFFFF;
@@ -428,6 +432,7 @@ div.polaroid4 {
 	left: 24px;
 	font-size: 102px;
 	color: black;
+	text-shadow: 0 0 20px #FFFFFF;
 }
 .amHeader2 {
 	text-align: center;
